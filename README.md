@@ -2,6 +2,8 @@
 
 Minimal Next.js + FastAPI + PostgreSQL app for testing repository onboarding and deployment flows.
 
+Deployment smoke marker: health endpoint is available at `/health`.
+
 ## Services
 
 - `frontend`: Next.js app on port `3000`
